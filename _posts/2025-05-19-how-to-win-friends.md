@@ -1,3 +1,10 @@
+---
+    layout: post
+    title: How to Win Friends and Influence People - Summary
+    category:
+        - Notes
+---
+
 Dale Carnegie’s timeless classic, first published in 1936, offers actionable principles for building relationships, fostering goodwill, and influencing others through empathy and understanding. Rooted in the idea that human interactions are driven by emotion and a desire for appreciation, the book emphasizes avoiding criticism, showing genuine interest in others, and aligning requests with others' needs. Below are the key points, each paired with a **call to action**, **pros**, and **cons** based on Carnegie’s teachings and real-world application.
 
 ---
